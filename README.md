@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/06db0eb84b88d11d76e6a.jpg" alt="SHIRAORI BOT" width="500"/>
+<img src="https://telegra.ph/file/7d356b5c948a25a6147f4.jpg" alt="SHIRAORI BOT" width="500"/>
 
 
 </p>
